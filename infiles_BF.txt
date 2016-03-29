@@ -1,0 +1,25 @@
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7125-56557-203.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7125-56559-191.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7125-56560-191.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7125-56584-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7125-56585-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7439-56757-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7439-56758-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7439-56760-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7439-56761-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7439-56762-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7439-56763-194.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7440-56783-190.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7440-56784-190.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7440-56785-190.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7440-56786-190.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7440-56787-190.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7440-56788-190.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56812-184.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56814-184.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56815-184.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56816-184.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56817-184.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56818-184.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56819-184.fits
+../../Users/revhalzoo/Desktop/SDSS/6864859/apVisit-r5-7441-56820-184 (1).fits
